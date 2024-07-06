@@ -12,13 +12,13 @@ Turn off the Candles of your birthday cake with Html,Css and Javascript!
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/birthday-cake-candles.git
+    git clone https://github.com/Mohammadshekari/Birthday-Cake-With-Blowing-Candle.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd birthday-cake-candles
+    cd Birthday-Cake-With-Blowing-Candle
     ```
 3. open `demo.html` in browser.
 
