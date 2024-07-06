@@ -20,7 +20,7 @@ Turn off the Candles of your birthday cake with Html,Css and Javascript!
     ```bash
     cd Birthday-Cake-With-Blowing-Candle
     ```
-3. open `demo.html` in browser.
+3. open `index.html` in browser.
 
 
 ## Audio Detection by [WeBAD](https://github.com/solyarisoftware/WeBAD)
