@@ -1,6 +1,9 @@
 # Blowing out the Birthday Cake Candles with JavaScript
 
 Turn off the Candles of your birthday cake with Html,Css and Javascript!
+<br>
+<img src="https://github.com/Mohammadshekari/Mohammadshekari/Birthday-Cake-With-Blowing-Candle/blob/main/screenshots/cake-off.jpg?raw=true" width="300">
+<img src="https://github.com/Mohammadshekari/Mohammadshekari/Birthday-Cake-With-Blowing-Candle/blob/main/screenshots/cake-on.jpg?raw=true" width="300">
 
 ## Installation
 
