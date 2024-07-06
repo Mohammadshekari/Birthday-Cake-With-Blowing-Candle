@@ -2,6 +2,10 @@
 
 Turn off the Candles of your birthday cake with Html,Css and Javascript!
 
+## Live Demo
+
+You can see the [LIVE DEMO HERE](https://mohammadshekari.github.io/Birthday-Cake-With-Blowing-Candle/index.html).
+
 
 
 <img src="https://github.com/Mohammadshekari/Birthday-Cake-With-Blowing-Candle/blob/main/screenshots/cake-on.jpg?raw=true" width="600">
@@ -21,7 +25,6 @@ Turn off the Candles of your birthday cake with Html,Css and Javascript!
     cd Birthday-Cake-With-Blowing-Candle
     ```
 3. open `index.html` in browser.
-
 
 ## Audio Detection by [WeBAD](https://github.com/solyarisoftware/WeBAD)
 
